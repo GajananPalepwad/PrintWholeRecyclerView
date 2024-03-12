@@ -1,0 +1,1 @@
+You can save the whole recycler view in PDF format. It will only save the visible screen of recycler view to parent, so to save all part you can increase the width and height of parent view so you can save whole recycler view.
